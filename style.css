@@ -11,4 +11,11 @@ text-align : center;
 background-color : Teal;
 
 }
+footer {
+    color: chartreuse;
+
+    background-color: black;
+    
+    font-size: 120%;
+}
 
